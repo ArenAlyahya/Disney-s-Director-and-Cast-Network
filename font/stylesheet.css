@@ -1,0 +1,208 @@
+@font-face {
+    font-family: 'Disney Epcot Center';
+    src: url('DisneyEpcotCenter.eot');
+    src: local('Disney Epcot Center Regular'), local('DisneyEpcotCenter'),
+        url('DisneyEpcotCenter.eot?#iefix') format('embedded-opentype'),
+        url('DisneyEpcotCenter.woff2') format('woff2'),
+        url('DisneyEpcotCenter.woff') format('woff'),
+        url('DisneyEpcotCenter.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Minnie';
+    src: url('DisneyMinnie.eot');
+    src: local('Disney Minnie Regular'), local('DisneyMinnie'),
+        url('DisneyMinnie.eot?#iefix') format('embedded-opentype'),
+        url('DisneyMinnie.woff2') format('woff2'),
+        url('DisneyMinnie.woff') format('woff'),
+        url('DisneyMinnie.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Haunted Mansion 2';
+    src: url('DisneyHauntedMansion2.eot');
+    src: local('Disney Haunted Mansion 2 Regular'), local('DisneyHauntedMansion2'),
+        url('DisneyHauntedMansion2.eot?#iefix') format('embedded-opentype'),
+        url('DisneyHauntedMansion2.woff2') format('woff2'),
+        url('DisneyHauntedMansion2.woff') format('woff'),
+        url('DisneyHauntedMansion2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Mickey';
+    src: url('DisneyMickey.eot');
+    src: local('Disney Mickey Regular'), local('DisneyMickey'),
+        url('DisneyMickey.eot?#iefix') format('embedded-opentype'),
+        url('DisneyMickey.woff2') format('woff2'),
+        url('DisneyMickey.woff') format('woff'),
+        url('DisneyMickey.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Haunted Mansion 1';
+    src: url('DisneyHauntedMansion1.eot');
+    src: local('Disney Haunted Mansion 1 Regular'), local('DisneyHauntedMansion1'),
+        url('DisneyHauntedMansion1.eot?#iefix') format('embedded-opentype'),
+        url('DisneyHauntedMansion1.woff2') format('woff2'),
+        url('DisneyHauntedMansion1.woff') format('woff'),
+        url('DisneyHauntedMansion1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Mission Space';
+    src: url('DisneyMissionSpace.eot');
+    src: local('Disney Mission Space Regular'), local('DisneyMissionSpace'),
+        url('DisneyMissionSpace.eot?#iefix') format('embedded-opentype'),
+        url('DisneyMissionSpace.woff2') format('woff2'),
+        url('DisneyMissionSpace.woff') format('woff'),
+        url('DisneyMissionSpace.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Heroic';
+    src: url('DisneyHeroic.eot');
+    src: local('Disney Heroic'), local('DisneyHeroic'),
+        url('DisneyHeroic.eot?#iefix') format('embedded-opentype'),
+        url('DisneyHeroic.woff2') format('woff2'),
+        url('DisneyHeroic.woff') format('woff'),
+        url('DisneyHeroic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Comic';
+    src: url('DisneyComic.eot');
+    src: local('Disney Comic'), local('DisneyComic'),
+        url('DisneyComic.eot?#iefix') format('embedded-opentype'),
+        url('DisneyComic.woff2') format('woff2'),
+        url('DisneyComic.woff') format('woff'),
+        url('DisneyComic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Print';
+    src: url('DisneyPrint.eot');
+    src: local('Disney Print'), local('DisneyPrint'),
+        url('DisneyPrint.eot?#iefix') format('embedded-opentype'),
+        url('DisneyPrint.woff2') format('woff2'),
+        url('DisneyPrint.woff') format('woff'),
+        url('DisneyPrint.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Nightmare Before Christmas';
+    src: url('DisneyNightmareBeforeChristmas.eot');
+    src: local('Disney Nightmare Before Christmas Regular'), local('DisneyNightmareBeforeChristmas'),
+        url('DisneyNightmareBeforeChristmas.eot?#iefix') format('embedded-opentype'),
+        url('DisneyNightmareBeforeChristmas.woff2') format('woff2'),
+        url('DisneyNightmareBeforeChristmas.woff') format('woff'),
+        url('DisneyNightmareBeforeChristmas.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Script';
+    src: url('DisneyScript.eot');
+    src: local('Disney Script Regular'), local('DisneyScript'),
+        url('DisneyScript.eot?#iefix') format('embedded-opentype'),
+        url('DisneyScript.woff2') format('woff2'),
+        url('DisneyScript.woff') format('woff'),
+        url('DisneyScript.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Toon Town';
+    src: url('DisneyToonTown.eot');
+    src: local('Disney Toon Town Regular'), local('DisneyToonTown'),
+        url('DisneyToonTown.eot?#iefix') format('embedded-opentype'),
+        url('DisneyToonTown.woff2') format('woff2'),
+        url('DisneyToonTown.woff') format('woff'),
+        url('DisneyToonTown.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Twilite Zone Tower of Terror';
+    src: url('DisneyTwiliteZoneTowerofTerror-Book.eot');
+    src: local('Disney Twilite Zone Tower of Terror Book'), local('DisneyTwiliteZoneTowerofTerror-Book'),
+        url('DisneyTwiliteZoneTowerofTerror-Book.eot?#iefix') format('embedded-opentype'),
+        url('DisneyTwiliteZoneTowerofTerror-Book.woff2') format('woff2'),
+        url('DisneyTwiliteZoneTowerofTerror-Book.woff') format('woff'),
+        url('DisneyTwiliteZoneTowerofTerror-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Park';
+    src: url('DisneyPark.eot');
+    src: local('Disney Park Regular'), local('DisneyPark'),
+        url('DisneyPark.eot?#iefix') format('embedded-opentype'),
+        url('DisneyPark.woff2') format('woff2'),
+        url('DisneyPark.woff') format('woff'),
+        url('DisneyPark.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Simple';
+    src: url('DisneySimple.eot');
+    src: local('Disney Simple'), local('DisneySimple'),
+        url('DisneySimple.eot?#iefix') format('embedded-opentype'),
+        url('DisneySimple.woff2') format('woff2'),
+        url('DisneySimple.woff') format('woff'),
+        url('DisneySimple.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Disney Tomorrow Land';
+    src: url('DisneyTomorrowLand.eot');
+    src: local('Disney Tomorrow Land Regular'), local('DisneyTomorrowLand'),
+        url('DisneyTomorrowLand.eot?#iefix') format('embedded-opentype'),
+        url('DisneyTomorrowLand.woff2') format('woff2'),
+        url('DisneyTomorrowLand.woff') format('woff'),
+        url('DisneyTomorrowLand.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
